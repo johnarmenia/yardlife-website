@@ -1,0 +1,11 @@
+PHOTO MAP — replace placeholders with actual verified project photos
+Home hero: finished inground pool and backyard overview; alt: Custom inground pool and landscaped backyard
+Home pool card: clear fiberglass/vinyl/gunite pool photo; alt: Inground swimming pool with finished deck
+Pool page fiberglass card: verified fiberglass pool; alt: Fiberglass inground pool with patio
+Pool page vinyl card: verified vinyl-liner pool; alt: Vinyl-liner inground swimming pool
+Pool page gunite card: verified gunite pool; alt: Custom concrete gunite inground pool
+Process page hero: pool under construction; alt: Inground pool construction in progress
+Property page hero: crew preparing and protecting work area; alt: Pool construction work area with site protection
+Outdoor page hero: completed paver patio; alt: Custom paver patio and outdoor living space
+Gallery: use verified project images with project-specific alt text
+Current photos are inspiration images, not verified Yard Life NJ jobs.

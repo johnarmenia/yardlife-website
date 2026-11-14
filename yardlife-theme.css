@@ -1,0 +1,22 @@
+/* Yard Life NJ — unified coastal pool palette */
+:root{--dark:#103B63;--green:#087DBA;--gold:#087DBA;--paper:#EAF6FA;--ink:#183C57;--muted:#526B7D;--navy:#103B63;--pool-blue:#087DBA;--aqua:#35B9D0}
+body{background:#f7fbfd;color:var(--ink)}
+.top,header.top{background:var(--navy)}
+.brand small{color:#b8e6f3}
+.nav a:hover{color:#8be0ef}
+.nav .contact{background:var(--pool-blue);border-color:var(--pool-blue);color:#fff;border-radius:6px}
+.nav .contact:hover{background:#066493;color:#fff}
+.hero{background-image:linear-gradient(90deg,rgba(7,35,62,.90) 0%,rgba(7,43,73,.67) 47%,rgba(7,43,73,.12) 100%),url('hero.jpg')}
+.eyebrow,.card .num,.planning-grid span,.sample-tag{color:var(--pool-blue)}
+.hero .eyebrow,.closing .eyebrow{color:#89e1ef}
+.btn,.button,button[type=submit],input[type=submit]{background:var(--pool-blue);color:#fff;border-color:var(--pool-blue);border-radius:6px}
+.btn:hover,.button:hover,button[type=submit]:hover,input[type=submit]:hover{background:#066493}
+.btn.secondary{background:transparent;color:#fff;border-color:#b9e4f4}
+.cream{background:var(--paper)}
+.card,.sample-review,.planning-grid article,.review-panel{border-color:#d5e8f1}
+.feature{border-left-color:var(--aqua)}
+.adv-item{border-top-color:var(--aqua)}
+.sample-review strong{color:var(--navy)}
+.closing{background-image:linear-gradient(rgba(8,42,71,.88),rgba(8,42,71,.88)),url('hero.jpg')}
+footer{background:#092A45}
+a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid var(--aqua);outline-offset:3px}
